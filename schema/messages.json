@@ -1,0 +1,102 @@
+{
+  "id": "/Incidences",
+  "title": "Incidences",
+  "type": "object",
+  "additionalProperties": false,
+  "definitions": {
+    "incidence": {
+      "type": "object",
+      "description": "Single incidence message",
+      "additionalProperties": false,
+      "properties": {
+        "st": {
+          "type": "string",
+          "description": "Short title/text"
+        },
+        "lt": {
+          "type": "string",
+          "description": "Long title/text"
+        },
+        "t": {
+          "type": "string",
+          "description": "Title"
+        },
+        "info": {
+          "type": "string",
+          "description": "Message"
+        },
+        "web": {
+          "type": "bool",
+          "description": "???"
+        },
+        "site": {
+          "type": "bool",
+          "description": "???"
+        },
+        "stele": {
+          "type": "bool",
+          "description": "???"
+        },
+        "monitor": {
+          "type": "bool",
+          "description": "???"
+        },
+        "mobile": {
+          "type": "bool",
+          "description": "???"
+        },
+        "betrieb": {
+          "type": "bool",
+          "description": "???"
+        },
+        "sms": {
+          "type": "bool",
+          "description": "???"
+        },
+        "id": {
+          "type": "string",
+          "description": "???"
+        },
+        "from": {
+          "$ref": "#/definitions/time"
+        },
+        "until": {
+          "$ref": "#/definitions/time"
+        },
+        "update": {
+          "$ref": "#/definitions/time"
+        },
+        "hideEndtime": {
+          "type": "bool"
+        }
+      }
+    },
+    "time": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "time": {
+          "type": "int",
+          "description": "UNIX Timestamp miliseconds"
+        },
+        "timezone": {
+          "type": "string"
+        }
+      }
+    }
+  },
+  "properties": {
+    "response": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "incidences": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/incidence"
+          }
+        }
+      }
+    }
+  }
+}

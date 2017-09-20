@@ -1,0 +1,75 @@
+{
+  "id": "/Lines",
+  "title": "Lines",
+  "type": "array",
+  "additionalProperties": false,
+  "definitions": {
+    "line": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "l": {
+          "type": "string",
+          "description": "Line Name"
+        },
+        "f": {
+          "type": "int",
+          "description": "???"
+        },
+        "b": {
+          "type": "int",
+          "description": "???"
+        },
+        "t": {
+          "type": "int",
+          "description": "???"
+        },
+        "s": {
+          "type": "string",
+          "description": "Start?"
+        },
+        "r": {
+          "type": "string",
+          "description": "End?"
+        },
+        "h": {
+          "type": "array",
+          "description": "???",
+          "items": {
+            "$ref": "#/definitions/stop"
+          }
+        }
+      }
+    },
+    "stop": {
+      "type": "object",
+      "description": "Stop",
+      "additionalProperties": false,
+      "properties": {
+        "i": {
+          "type": "int",
+          "description": "Station ID?"
+        },
+        "s": {
+          "type": "string",
+          "description": "Station Full Name"
+        },
+        "o": {
+          "type": "string",
+          "description": "Station City"
+        },
+        "n": {
+          "type": "string",
+          "description": "Station Name"
+        },
+        "a": {
+          "type": "bool",
+          "description": "???"
+        }
+      }
+    }
+  },
+  "items": {
+    "$ref": "#/definitions/line"
+  }
+}

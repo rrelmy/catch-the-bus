@@ -1,0 +1,565 @@
+{
+  "response": {
+    "departures": [
+      {
+        "rt": "382",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 15605027,
+          "bgcHex": "ee1d23",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "H"
+        },
+        "dest": "Mägenwil Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_A",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "1",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505946060000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505946060000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "26min",
+        "id": "000873_04038_14;2017-09-20",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": false,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "382",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 15605027,
+          "bgcHex": "ee1d23",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "R"
+        },
+        "dest": "Lenzburg, Hypiplatz                               ",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_B",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "B",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505946840000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505946840000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "39min",
+        "id": "000873_05039_4;2017-09-20",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": false,
+        "hasRealtime": false,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "H"
+        },
+        "dest": "Mägenwil Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_A",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "A",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505964060000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505964060000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "326min",
+        "id": "000873_14000_12;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1
+        },
+        "dest": "Lenzburg Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_B",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "B",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505964900000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505964900000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "340min",
+        "id": "000873_15001_2_4;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": true,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "H"
+        },
+        "dest": "Mägenwil Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_A",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "A",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505967660000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505967660000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "386min",
+        "id": "000873_14004_12;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1
+        },
+        "dest": "Lenzburg Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_B",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "B",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505968500000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505968500000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "400min",
+        "id": "000873_15005_2_4;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "H"
+        },
+        "dest": "Mägenwil Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_A",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "A",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505971260000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505971260000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "446min",
+        "id": "000873_14008_12;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": true,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1
+        },
+        "dest": "Lenzburg Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_B",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "B",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505972100000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505972100000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "460min",
+        "id": "000873_15009_2_4;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "H"
+        },
+        "dest": "Mägenwil Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_A",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "A",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505974860000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505974860000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "506min",
+        "id": "000873_14012_12;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1
+        },
+        "dest": "Lenzburg Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_B",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "B",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505975700000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505975700000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "520min",
+        "id": "000873_15013_2_4;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": false,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1,
+          "direction": "H"
+        },
+        "dest": "Mägenwil Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_A",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "A",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505978460000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505978460000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "566min",
+        "id": "000873_14014_12;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": true,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      },
+      {
+        "rt": "393",
+        "lineInfo": {
+          "fgc": 16777215,
+          "fgcHex": "ffffff",
+          "bgc": 255,
+          "bgcHex": "0000ff",
+          "borderColor": 16777215,
+          "borderColorHex": "ffffff",
+          "vehicle": 1
+        },
+        "dest": "Lenzburg Bahnhof",
+        "stp": "Mägenwil, Gewerbepark",
+        "stopInfo": {
+          "hid": "87230",
+          "kid": "87230_B",
+          "lat": 47.4102783203125,
+          "lon": 8.225362777709961,
+          "perron": "B",
+          "direction": "",
+          "name": "Mägenwil, Gewerbepark"
+        },
+        "pred": false,
+        "ddt": {
+          "time": 1505979300000,
+          "timezone": "Europe/Zurich"
+        },
+        "rdt": {
+          "time": 1505944471417,
+          "timezone": "Europe/Zurich"
+        },
+        "sdt": {
+          "time": 1505979300000,
+          "timezone": "Europe/Zurich"
+        },
+        "dt": "580min",
+        "id": "000873_15015_2_4;2017-09-21",
+        "msgs": [],
+        "msgsSites": [],
+        "trafficJam": false,
+        "atStation": false,
+        "cancelled": false,
+        "finished": true,
+        "hasRealtime": true,
+        "needsReservation": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,3465 @@
+ [{
+  "l": "N82",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Lenzburg Bahnhof",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 2681,
+        "s": "Lenzburg Ringstrasse Nord",
+        "o": "Lenzburg",
+        "n": "Ringstrasse Nord",
+        "a": true
+        }, {
+        "i": 78695,
+        "s": "Lenzburg Traitafina",
+        "o": "Lenzburg",
+        "n": "Traitafina",
+        "a": true
+        }, {
+        "i": 78694,
+        "s": "Niederlenz Staufbergstrasse",
+        "o": "Niederlenz",
+        "n": "Staufbergstrasse",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 72465,
+        "s": "Wildegg Bahnhof",
+        "o": "Wildegg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 87752,
+        "s": "Möriken Züriacker",
+        "o": "Möriken",
+        "n": "Züriacker",
+        "a": true
+        }, {
+        "i": 87750,
+        "s": "Möriken Bösenrain",
+        "o": "Möriken",
+        "n": "Bösenrain",
+        "a": true
+        }, {
+        "i": 87113,
+        "s": "Brunegg Zentrum",
+        "o": "Brunegg",
+        "n": "Zentrum",
+        "a": true
+        }, {
+        "i": 88178,
+        "s": "Brunegg Industriestrasse",
+        "o": "Brunegg",
+        "n": "Industriestrasse",
+        "a": true
+        }, {
+        "i": 90206,
+        "s": "Brunegg Arena",
+        "o": "Brunegg",
+        "n": "Arena",
+        "a": true
+        }, {
+        "i": 87230,
+        "s": "Mägenwil Gewerbepark",
+        "o": "Mägenwil",
+        "n": "Gewerbepark",
+        "a": true
+        }, {
+        "i": 87574,
+        "s": "Mägenwil Dorf",
+        "o": "Mägenwil",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 80637,
+        "s": "Mägenwil Post",
+        "o": "Mägenwil",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 80637,
+        "s": "Mägenwil Post",
+        "o": "Mägenwil",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 87574,
+        "s": "Mägenwil Dorf",
+        "o": "Mägenwil",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 87230,
+        "s": "Mägenwil Gewerbepark",
+        "o": "Mägenwil",
+        "n": "Gewerbepark",
+        "a": true
+        }, {
+        "i": 87101,
+        "s": "Othmarsingen Bahnhof",
+        "o": "Othmarsingen",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 90253,
+        "s": "Othmarsingen Bahnhofstrasse",
+        "o": "Othmarsingen",
+        "n": "Bahnhofstrasse",
+        "a": true
+        }, {
+        "i": 87102,
+        "s": "Othmarsingen Rössli",
+        "o": "Othmarsingen",
+        "n": "Rössli",
+        "a": true
+        }, {
+        "i": 90254,
+        "s": "Othmarsingen Högern",
+        "o": "Othmarsingen",
+        "n": "Högern",
+        "a": true
+        }, {
+        "i": 89490,
+        "s": "Othmarsingen Militärbetriebe",
+        "o": "Othmarsingen",
+        "n": "Militärbetriebe",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "N90",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Fahrwangen Bahnhof",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78698,
+        "s": "Staufen Beyeler",
+        "o": "Staufen",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78699,
+        "s": "Staufen Lindenplatz",
+        "o": "Staufen",
+        "n": "Lindenplatz",
+        "a": true
+        }, {
+        "i": 78700,
+        "s": "Staufen Chrüzweg",
+        "o": "Staufen",
+        "n": "Chrüzweg",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78702,
+        "s": "Schafisheim Milchgasse",
+        "o": "Schafisheim",
+        "n": "Milchgasse",
+        "a": true
+        }, {
+        "i": 2675,
+        "s": "Seon Frohsinn",
+        "o": "Seon",
+        "n": "Frohsinn",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 78704,
+        "s": "Seon Unterdorf",
+        "o": "Seon",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 2676,
+        "s": "Seon Hallenbad",
+        "o": "Seon",
+        "n": "Hallenbad",
+        "a": true
+        }, {
+        "i": 2677,
+        "s": "Egliswil Industrie",
+        "o": "Egliswil",
+        "n": "Industrie",
+        "a": true
+        }, {
+        "i": 2678,
+        "s": "Egliswil Waagplatz",
+        "o": "Egliswil",
+        "n": "Waagplatz",
+        "a": true
+        }, {
+        "i": 78705,
+        "s": "Egliswil Zopf",
+        "o": "Egliswil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 78706,
+        "s": "Seengen Feldgarage",
+        "o": "Seengen",
+        "n": "Feldgarage",
+        "a": true
+        }, {
+        "i": 2679,
+        "s": "Seengen Poststrasse",
+        "o": "Seengen",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78707,
+        "s": "Seengen Rotes Haus",
+        "o": "Seengen",
+        "n": "Rotes Haus",
+        "a": true
+        }, {
+        "i": 78764,
+        "s": "Seengen Brestenberg",
+        "o": "Seengen",
+        "n": "Brestenberg",
+        "a": true
+        }, {
+        "i": 90263,
+        "s": "Seengen Flurenweg",
+        "o": "Seengen",
+        "n": "Flurenweg",
+        "a": true
+        }, {
+        "i": 78765,
+        "s": "Tennwil",
+        "o": "",
+        "n": "Tennwil",
+        "a": true
+        }, {
+        "i": 89986,
+        "s": "Tennwil Strandbad",
+        "o": "Tennwil",
+        "n": "Strandbad",
+        "a": true
+        }, {
+        "i": 78767,
+        "s": "Meisterschwanden Delphinweg",
+        "o": "Meisterschwanden",
+        "n": "Delphinweg",
+        "a": true
+        }, {
+        "i": 2265,
+        "s": "Meisterschwanden Post",
+        "o": "Meisterschwanden",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 78768,
+        "s": "Fahrwangen Bahnhof",
+        "o": "Fahrwangen",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "N94",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Aarau Bahnhof",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78744,
+        "s": "Schafisheim Jumbo",
+        "o": "Schafisheim",
+        "n": "Jumbo",
+        "a": true
+        }, {
+        "i": 78742,
+        "s": "Schafisheim Coop",
+        "o": "Schafisheim",
+        "n": "Coop",
+        "a": true
+        }, {
+        "i": 88573,
+        "s": "Hunzenschwil Korbacher",
+        "o": "Hunzenschwil",
+        "n": "Korbacher",
+        "a": true
+        }, {
+        "i": 88575,
+        "s": "Rupperswil Bahnhof",
+        "o": "Rupperswil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 90257,
+        "s": "Rohr Gemeindehaus",
+        "o": "Rohr",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 90138,
+        "s": "Aarau Delfterstrasse",
+        "o": "Aarau",
+        "n": "Delfterstrasse",
+        "a": true
+        }, {
+        "i": 2113,
+        "s": "Aarau Bahnhof",
+        "o": "Aarau",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "N94",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Aarau Bahnhof",
+  "r": "Lenzburg Bahnhof",
+  "h": [{
+        "i": 2113,
+        "s": "Aarau Bahnhof",
+        "o": "Aarau",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 90138,
+        "s": "Aarau Delfterstrasse",
+        "o": "Aarau",
+        "n": "Delfterstrasse",
+        "a": true
+        }, {
+        "i": 90257,
+        "s": "Rohr Gemeindehaus",
+        "o": "Rohr",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 88575,
+        "s": "Rupperswil Bahnhof",
+        "o": "Rupperswil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 88573,
+        "s": "Hunzenschwil Korbacher",
+        "o": "Hunzenschwil",
+        "n": "Korbacher",
+        "a": true
+        }, {
+        "i": 78742,
+        "s": "Schafisheim Coop",
+        "o": "Schafisheim",
+        "n": "Coop",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "N99",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Beinwil a. See Bahnhof",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 2031,
+        "s": "Hallwil Bahnhof",
+        "o": "Hallwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78712,
+        "s": "Boniswil Bahnhof",
+        "o": "Boniswil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 2033,
+        "s": "Birrwil Bahnhof",
+        "o": "Birrwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 2034,
+        "s": "Beinwil a. See Bahnhof",
+        "o": "Beinwil",
+        "n": "a. See Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "380",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Wildegg Bahnhof",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78697,
+        "s": "Lenzburg Volg",
+        "o": "Lenzburg",
+        "n": "Volg",
+        "a": true
+        }, {
+        "i": 1101,
+        "s": "Niederlenz Autobahnviadukt",
+        "o": "Niederlenz",
+        "n": "Autobahnviadukt",
+        "a": true
+        }, {
+        "i": 78693,
+        "s": "Niederlenz Hetex",
+        "o": "Niederlenz",
+        "n": "Hetex",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78689,
+        "s": "Möriken Oberäsch",
+        "o": "Möriken",
+        "n": "Oberäsch",
+        "a": true
+        }, {
+        "i": 78688,
+        "s": "Möriken Schloss Wildegg",
+        "o": "Möriken",
+        "n": "Schloss Wildegg",
+        "a": true
+        }, {
+        "i": 88870,
+        "s": "Wildegg  Zentrum",
+        "o": "Wildegg",
+        "n": " Zentrum",
+        "a": true
+        }, {
+        "i": 72465,
+        "s": "Wildegg Bahnhof",
+        "o": "Wildegg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "380",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Wildegg Bahnhof",
+  "r": "Lenzburg Hypiplatz",
+  "h": [{
+        "i": 72465,
+        "s": "Wildegg Bahnhof",
+        "o": "Wildegg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 88870,
+        "s": "Wildegg  Zentrum",
+        "o": "Wildegg",
+        "n": " Zentrum",
+        "a": true
+        }, {
+        "i": 78688,
+        "s": "Möriken Schloss Wildegg",
+        "o": "Möriken",
+        "n": "Schloss Wildegg",
+        "a": true
+        }, {
+        "i": 78689,
+        "s": "Möriken Oberäsch",
+        "o": "Möriken",
+        "n": "Oberäsch",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78693,
+        "s": "Niederlenz Hetex",
+        "o": "Niederlenz",
+        "n": "Hetex",
+        "a": true
+        }, {
+        "i": 1101,
+        "s": "Niederlenz Autobahnviadukt",
+        "o": "Niederlenz",
+        "n": "Autobahnviadukt",
+        "a": true
+        }, {
+        "i": 78697,
+        "s": "Lenzburg Volg",
+        "o": "Lenzburg",
+        "n": "Volg",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "381",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Wildegg Bahnhof",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 2681,
+        "s": "Lenzburg Ringstrasse Nord",
+        "o": "Lenzburg",
+        "n": "Ringstrasse Nord",
+        "a": true
+        }, {
+        "i": 78695,
+        "s": "Lenzburg Traitafina",
+        "o": "Lenzburg",
+        "n": "Traitafina",
+        "a": true
+        }, {
+        "i": 78694,
+        "s": "Niederlenz Staufbergstrasse",
+        "o": "Niederlenz",
+        "n": "Staufbergstrasse",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78689,
+        "s": "Möriken Oberäsch",
+        "o": "Möriken",
+        "n": "Oberäsch",
+        "a": true
+        }, {
+        "i": 78688,
+        "s": "Möriken Schloss Wildegg",
+        "o": "Möriken",
+        "n": "Schloss Wildegg",
+        "a": true
+        }, {
+        "i": 88870,
+        "s": "Wildegg  Zentrum",
+        "o": "Wildegg",
+        "n": " Zentrum",
+        "a": true
+        }, {
+        "i": 72465,
+        "s": "Wildegg Bahnhof",
+        "o": "Wildegg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "381",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Wildegg Bahnhof",
+  "r": "Lenzburg Hypiplatz",
+  "h": [{
+        "i": 72465,
+        "s": "Wildegg Bahnhof",
+        "o": "Wildegg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 88870,
+        "s": "Wildegg  Zentrum",
+        "o": "Wildegg",
+        "n": " Zentrum",
+        "a": true
+        }, {
+        "i": 78688,
+        "s": "Möriken Schloss Wildegg",
+        "o": "Möriken",
+        "n": "Schloss Wildegg",
+        "a": true
+        }, {
+        "i": 78689,
+        "s": "Möriken Oberäsch",
+        "o": "Möriken",
+        "n": "Oberäsch",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78694,
+        "s": "Niederlenz Staufbergstrasse",
+        "o": "Niederlenz",
+        "n": "Staufbergstrasse",
+        "a": true
+        }, {
+        "i": 78695,
+        "s": "Lenzburg Traitafina",
+        "o": "Lenzburg",
+        "n": "Traitafina",
+        "a": true
+        }, {
+        "i": 2681,
+        "s": "Lenzburg Ringstrasse Nord",
+        "o": "Lenzburg",
+        "n": "Ringstrasse Nord",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "381",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Möriken Gemeindehaus",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 2681,
+        "s": "Lenzburg Ringstrasse Nord",
+        "o": "Lenzburg",
+        "n": "Ringstrasse Nord",
+        "a": true
+        }, {
+        "i": 78695,
+        "s": "Lenzburg Traitafina",
+        "o": "Lenzburg",
+        "n": "Traitafina",
+        "a": true
+        }, {
+        "i": 78694,
+        "s": "Niederlenz Staufbergstrasse",
+        "o": "Niederlenz",
+        "n": "Staufbergstrasse",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }]
+  }, {
+  "l": "381",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Möriken Gemeindehaus",
+  "r": "Lenzburg Hypiplatz",
+  "h": [{
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78694,
+        "s": "Niederlenz Staufbergstrasse",
+        "o": "Niederlenz",
+        "n": "Staufbergstrasse",
+        "a": true
+        }, {
+        "i": 78695,
+        "s": "Lenzburg Traitafina",
+        "o": "Lenzburg",
+        "n": "Traitafina",
+        "a": true
+        }, {
+        "i": 2681,
+        "s": "Lenzburg Ringstrasse Nord",
+        "o": "Lenzburg",
+        "n": "Ringstrasse Nord",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "382",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Mägenwil Bahnhof",
+  "r": "Lenzburg Hypiplatz via Möriken",
+  "h": [{
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 80637,
+        "s": "Mägenwil Post",
+        "o": "Mägenwil",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 87574,
+        "s": "Mägenwil Dorf",
+        "o": "Mägenwil",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 87230,
+        "s": "Mägenwil Gewerbepark",
+        "o": "Mägenwil",
+        "n": "Gewerbepark",
+        "a": true
+        }, {
+        "i": 90206,
+        "s": "Brunegg Arena",
+        "o": "Brunegg",
+        "n": "Arena",
+        "a": true
+        }, {
+        "i": 88178,
+        "s": "Brunegg Industriestrasse",
+        "o": "Brunegg",
+        "n": "Industriestrasse",
+        "a": true
+        }, {
+        "i": 87113,
+        "s": "Brunegg Zentrum",
+        "o": "Brunegg",
+        "n": "Zentrum",
+        "a": true
+        }, {
+        "i": 87749,
+        "s": "Brunegg Sternen",
+        "o": "Brunegg",
+        "n": "Sternen",
+        "a": true
+        }, {
+        "i": 87750,
+        "s": "Möriken Bösenrain",
+        "o": "Möriken",
+        "n": "Bösenrain",
+        "a": true
+        }, {
+        "i": 87752,
+        "s": "Möriken Züriacker",
+        "o": "Möriken",
+        "n": "Züriacker",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78693,
+        "s": "Niederlenz Hetex",
+        "o": "Niederlenz",
+        "n": "Hetex",
+        "a": true
+        }, {
+        "i": 1101,
+        "s": "Niederlenz Autobahnviadukt",
+        "o": "Niederlenz",
+        "n": "Autobahnviadukt",
+        "a": true
+        }, {
+        "i": 78697,
+        "s": "Lenzburg Volg",
+        "o": "Lenzburg",
+        "n": "Volg",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "382",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Mägenwil Bahnhof via Möriken",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78697,
+        "s": "Lenzburg Volg",
+        "o": "Lenzburg",
+        "n": "Volg",
+        "a": true
+        }, {
+        "i": 1101,
+        "s": "Niederlenz Autobahnviadukt",
+        "o": "Niederlenz",
+        "n": "Autobahnviadukt",
+        "a": true
+        }, {
+        "i": 78693,
+        "s": "Niederlenz Hetex",
+        "o": "Niederlenz",
+        "n": "Hetex",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 87752,
+        "s": "Möriken Züriacker",
+        "o": "Möriken",
+        "n": "Züriacker",
+        "a": true
+        }, {
+        "i": 87750,
+        "s": "Möriken Bösenrain",
+        "o": "Möriken",
+        "n": "Bösenrain",
+        "a": true
+        }, {
+        "i": 87113,
+        "s": "Brunegg Zentrum",
+        "o": "Brunegg",
+        "n": "Zentrum",
+        "a": true
+        }, {
+        "i": 88178,
+        "s": "Brunegg Industriestrasse",
+        "o": "Brunegg",
+        "n": "Industriestrasse",
+        "a": true
+        }, {
+        "i": 90206,
+        "s": "Brunegg Arena",
+        "o": "Brunegg",
+        "n": "Arena",
+        "a": true
+        }, {
+        "i": 87230,
+        "s": "Mägenwil Gewerbepark",
+        "o": "Mägenwil",
+        "n": "Gewerbepark",
+        "a": true
+        }, {
+        "i": 87574,
+        "s": "Mägenwil Dorf",
+        "o": "Mägenwil",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 80637,
+        "s": "Mägenwil Post",
+        "o": "Mägenwil",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "382",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Mägenwil Bahnhof",
+  "r": "Lenzburg Hypiplatz via Möriken",
+  "h": [{
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 87741,
+        "s": "Mägenwil Electrolux",
+        "o": "Mägenwil",
+        "n": "Electrolux",
+        "a": true
+        }, {
+        "i": 90206,
+        "s": "Brunegg Arena",
+        "o": "Brunegg",
+        "n": "Arena",
+        "a": true
+        }, {
+        "i": 88178,
+        "s": "Brunegg Industriestrasse",
+        "o": "Brunegg",
+        "n": "Industriestrasse",
+        "a": true
+        }, {
+        "i": 87113,
+        "s": "Brunegg Zentrum",
+        "o": "Brunegg",
+        "n": "Zentrum",
+        "a": true
+        }, {
+        "i": 87749,
+        "s": "Brunegg Sternen",
+        "o": "Brunegg",
+        "n": "Sternen",
+        "a": true
+        }, {
+        "i": 87750,
+        "s": "Möriken Bösenrain",
+        "o": "Möriken",
+        "n": "Bösenrain",
+        "a": true
+        }, {
+        "i": 87752,
+        "s": "Möriken Züriacker",
+        "o": "Möriken",
+        "n": "Züriacker",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78693,
+        "s": "Niederlenz Hetex",
+        "o": "Niederlenz",
+        "n": "Hetex",
+        "a": true
+        }, {
+        "i": 1101,
+        "s": "Niederlenz Autobahnviadukt",
+        "o": "Niederlenz",
+        "n": "Autobahnviadukt",
+        "a": true
+        }, {
+        "i": 78697,
+        "s": "Lenzburg Volg",
+        "o": "Lenzburg",
+        "n": "Volg",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "382",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Mägenwil Bahnhof via Möriken",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78697,
+        "s": "Lenzburg Volg",
+        "o": "Lenzburg",
+        "n": "Volg",
+        "a": true
+        }, {
+        "i": 1101,
+        "s": "Niederlenz Autobahnviadukt",
+        "o": "Niederlenz",
+        "n": "Autobahnviadukt",
+        "a": true
+        }, {
+        "i": 78693,
+        "s": "Niederlenz Hetex",
+        "o": "Niederlenz",
+        "n": "Hetex",
+        "a": true
+        }, {
+        "i": 2981,
+        "s": "Niederlenz Dorfplatz",
+        "o": "Niederlenz",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78692,
+        "s": "Niederlenz Schürz",
+        "o": "Niederlenz",
+        "n": "Schürz",
+        "a": true
+        }, {
+        "i": 78691,
+        "s": "Möriken Steinler",
+        "o": "Möriken",
+        "n": "Steinler",
+        "a": true
+        }, {
+        "i": 78690,
+        "s": "Möriken Gemeindehaus",
+        "o": "Möriken",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 87752,
+        "s": "Möriken Züriacker",
+        "o": "Möriken",
+        "n": "Züriacker",
+        "a": true
+        }, {
+        "i": 87750,
+        "s": "Möriken Bösenrain",
+        "o": "Möriken",
+        "n": "Bösenrain",
+        "a": true
+        }, {
+        "i": 87113,
+        "s": "Brunegg Zentrum",
+        "o": "Brunegg",
+        "n": "Zentrum",
+        "a": true
+        }, {
+        "i": 88178,
+        "s": "Brunegg Industriestrasse",
+        "o": "Brunegg",
+        "n": "Industriestrasse",
+        "a": true
+        }, {
+        "i": 90206,
+        "s": "Brunegg Arena",
+        "o": "Brunegg",
+        "n": "Arena",
+        "a": true
+        }, {
+        "i": 87741,
+        "s": "Mägenwil Electrolux",
+        "o": "Mägenwil",
+        "n": "Electrolux",
+        "a": true
+        }, {
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "389",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Seon Birren",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 90265,
+        "s": "Seon Birren Süd",
+        "o": "Seon",
+        "n": "Birren Süd",
+        "a": true
+        }, {
+        "i": 90264,
+        "s": "Seon Birren Nord",
+        "o": "Seon",
+        "n": "Birren Nord",
+        "a": true
+        }]
+  }, {
+  "l": "389",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Seon Birren Nord",
+  "r": "Lenzburg Bahnhof",
+  "h": [{
+        "i": 90264,
+        "s": "Seon Birren Nord",
+        "o": "Seon",
+        "n": "Birren Nord",
+        "a": true
+        }, {
+        "i": 90265,
+        "s": "Seon Birren Süd",
+        "o": "Seon",
+        "n": "Birren Süd",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "389",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Seon Birren Nord",
+  "r": "Seon Bahnhof",
+  "h": [{
+        "i": 90264,
+        "s": "Seon Birren Nord",
+        "o": "Seon",
+        "n": "Birren Nord",
+        "a": true
+        }, {
+        "i": 90265,
+        "s": "Seon Birren Süd",
+        "o": "Seon",
+        "n": "Birren Süd",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }]
+  }, {
+  "l": "389",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Seon Bahnhof / Post",
+  "r": "Seon Birren",
+  "h": [{
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 2675,
+        "s": "Seon Frohsinn",
+        "o": "Seon",
+        "n": "Frohsinn",
+        "a": true
+        }, {
+        "i": 90265,
+        "s": "Seon Birren Süd",
+        "o": "Seon",
+        "n": "Birren Süd",
+        "a": true
+        }, {
+        "i": 90264,
+        "s": "Seon Birren Nord",
+        "o": "Seon",
+        "n": "Birren Nord",
+        "a": true
+        }]
+  }, {
+  "l": "390",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Bettwil",
+  "r": "Lenzburg Hypiplatz",
+  "h": [{
+        "i": 78770,
+        "s": "Bettwil",
+        "o": "",
+        "n": "Bettwil",
+        "a": true
+        }, {
+        "i": 78769,
+        "s": "Fahrwangen Bärenplatz",
+        "o": "Fahrwangen",
+        "n": "Bärenplatz",
+        "a": true
+        }, {
+        "i": 78768,
+        "s": "Fahrwangen Bahnhof",
+        "o": "Fahrwangen",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 2265,
+        "s": "Meisterschwanden Post",
+        "o": "Meisterschwanden",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 78767,
+        "s": "Meisterschwanden Delphinweg",
+        "o": "Meisterschwanden",
+        "n": "Delphinweg",
+        "a": true
+        }, {
+        "i": 89986,
+        "s": "Tennwil Strandbad",
+        "o": "Tennwil",
+        "n": "Strandbad",
+        "a": true
+        }, {
+        "i": 78765,
+        "s": "Tennwil",
+        "o": "",
+        "n": "Tennwil",
+        "a": true
+        }, {
+        "i": 90263,
+        "s": "Seengen Flurenweg",
+        "o": "Seengen",
+        "n": "Flurenweg",
+        "a": true
+        }, {
+        "i": 78764,
+        "s": "Seengen Brestenberg",
+        "o": "Seengen",
+        "n": "Brestenberg",
+        "a": true
+        }, {
+        "i": 78707,
+        "s": "Seengen Rotes Haus",
+        "o": "Seengen",
+        "n": "Rotes Haus",
+        "a": true
+        }, {
+        "i": 2679,
+        "s": "Seengen Poststrasse",
+        "o": "Seengen",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78706,
+        "s": "Seengen Feldgarage",
+        "o": "Seengen",
+        "n": "Feldgarage",
+        "a": true
+        }, {
+        "i": 78705,
+        "s": "Egliswil Zopf",
+        "o": "Egliswil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 2678,
+        "s": "Egliswil Waagplatz",
+        "o": "Egliswil",
+        "n": "Waagplatz",
+        "a": true
+        }, {
+        "i": 2677,
+        "s": "Egliswil Industrie",
+        "o": "Egliswil",
+        "n": "Industrie",
+        "a": true
+        }, {
+        "i": 2676,
+        "s": "Seon Hallenbad",
+        "o": "Seon",
+        "n": "Hallenbad",
+        "a": true
+        }, {
+        "i": 78704,
+        "s": "Seon Unterdorf",
+        "o": "Seon",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 2675,
+        "s": "Seon Frohsinn",
+        "o": "Seon",
+        "n": "Frohsinn",
+        "a": true
+        }, {
+        "i": 78702,
+        "s": "Schafisheim Milchgasse",
+        "o": "Schafisheim",
+        "n": "Milchgasse",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 78700,
+        "s": "Staufen Chrüzweg",
+        "o": "Staufen",
+        "n": "Chrüzweg",
+        "a": true
+        }, {
+        "i": 78699,
+        "s": "Staufen Lindenplatz",
+        "o": "Staufen",
+        "n": "Lindenplatz",
+        "a": true
+        }, {
+        "i": 78698,
+        "s": "Staufen Beyeler",
+        "o": "Staufen",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "390",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Bettwil",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78698,
+        "s": "Staufen Beyeler",
+        "o": "Staufen",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78699,
+        "s": "Staufen Lindenplatz",
+        "o": "Staufen",
+        "n": "Lindenplatz",
+        "a": true
+        }, {
+        "i": 78700,
+        "s": "Staufen Chrüzweg",
+        "o": "Staufen",
+        "n": "Chrüzweg",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78702,
+        "s": "Schafisheim Milchgasse",
+        "o": "Schafisheim",
+        "n": "Milchgasse",
+        "a": true
+        }, {
+        "i": 2675,
+        "s": "Seon Frohsinn",
+        "o": "Seon",
+        "n": "Frohsinn",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 78704,
+        "s": "Seon Unterdorf",
+        "o": "Seon",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 2676,
+        "s": "Seon Hallenbad",
+        "o": "Seon",
+        "n": "Hallenbad",
+        "a": true
+        }, {
+        "i": 2677,
+        "s": "Egliswil Industrie",
+        "o": "Egliswil",
+        "n": "Industrie",
+        "a": true
+        }, {
+        "i": 2678,
+        "s": "Egliswil Waagplatz",
+        "o": "Egliswil",
+        "n": "Waagplatz",
+        "a": true
+        }, {
+        "i": 78705,
+        "s": "Egliswil Zopf",
+        "o": "Egliswil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 78706,
+        "s": "Seengen Feldgarage",
+        "o": "Seengen",
+        "n": "Feldgarage",
+        "a": true
+        }, {
+        "i": 2679,
+        "s": "Seengen Poststrasse",
+        "o": "Seengen",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78707,
+        "s": "Seengen Rotes Haus",
+        "o": "Seengen",
+        "n": "Rotes Haus",
+        "a": true
+        }, {
+        "i": 78764,
+        "s": "Seengen Brestenberg",
+        "o": "Seengen",
+        "n": "Brestenberg",
+        "a": true
+        }, {
+        "i": 90263,
+        "s": "Seengen Flurenweg",
+        "o": "Seengen",
+        "n": "Flurenweg",
+        "a": true
+        }, {
+        "i": 78765,
+        "s": "Tennwil",
+        "o": "",
+        "n": "Tennwil",
+        "a": true
+        }, {
+        "i": 89986,
+        "s": "Tennwil Strandbad",
+        "o": "Tennwil",
+        "n": "Strandbad",
+        "a": true
+        }, {
+        "i": 78767,
+        "s": "Meisterschwanden Delphinweg",
+        "o": "Meisterschwanden",
+        "n": "Delphinweg",
+        "a": true
+        }, {
+        "i": 2265,
+        "s": "Meisterschwanden Post",
+        "o": "Meisterschwanden",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 78768,
+        "s": "Fahrwangen Bahnhof",
+        "o": "Fahrwangen",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78769,
+        "s": "Fahrwangen Bärenplatz",
+        "o": "Fahrwangen",
+        "n": "Bärenplatz",
+        "a": true
+        }, {
+        "i": 78770,
+        "s": "Bettwil",
+        "o": "",
+        "n": "Bettwil",
+        "a": true
+        }]
+  }, {
+  "l": "390",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Bettwil",
+  "r": "Fahrwangen Bahnhof",
+  "h": [{
+        "i": 78770,
+        "s": "Bettwil",
+        "o": "",
+        "n": "Bettwil",
+        "a": true
+        }, {
+        "i": 78769,
+        "s": "Fahrwangen Bärenplatz",
+        "o": "Fahrwangen",
+        "n": "Bärenplatz",
+        "a": true
+        }, {
+        "i": 78768,
+        "s": "Fahrwangen Bahnhof",
+        "o": "Fahrwangen",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "391",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Langsamstig",
+  "r": "Schloss Lenzburg via Bachstrasse",
+  "h": [{
+        "i": 78738,
+        "s": "Lenzburg Langsamstig",
+        "o": "Lenzburg",
+        "n": "Langsamstig",
+        "a": true
+        }, {
+        "i": 78739,
+        "s": "Lenzburg Dufourstrasse",
+        "o": "Lenzburg",
+        "n": "Dufourstrasse",
+        "a": true
+        }, {
+        "i": 90242,
+        "s": "Lenzburg General Herzog-Strasse",
+        "o": "Lenzburg",
+        "n": "General Herzog-Strasse",
+        "a": true
+        }, {
+        "i": 78745,
+        "s": "Lenzburg Zeughaus",
+        "o": "Lenzburg",
+        "n": "Zeughaus",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78734,
+        "s": "Lenzburg Beyeler",
+        "o": "Lenzburg",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78733,
+        "s": "Lenzburg Mattenweg",
+        "o": "Lenzburg",
+        "n": "Mattenweg",
+        "a": true
+        }, {
+        "i": 78732,
+        "s": "Lenzburg Bachstrasse",
+        "o": "Lenzburg",
+        "n": "Bachstrasse",
+        "a": true
+        }, {
+        "i": 90243,
+        "s": "Lenzburg Poststrasse",
+        "o": "Lenzburg",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 88869,
+        "s": "Lenzburg Schloss",
+        "o": "Lenzburg",
+        "n": "Schloss",
+        "a": true
+        }]
+  }, {
+  "l": "391",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Schloss",
+  "r": "Langsamstig via Bachstrasse",
+  "h": [{
+        "i": 88869,
+        "s": "Lenzburg Schloss",
+        "o": "Lenzburg",
+        "n": "Schloss",
+        "a": true
+        }, {
+        "i": 78726,
+        "s": "Lenzburg Berufsschule",
+        "o": "Lenzburg",
+        "n": "Berufsschule",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 90243,
+        "s": "Lenzburg Poststrasse",
+        "o": "Lenzburg",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78732,
+        "s": "Lenzburg Bachstrasse",
+        "o": "Lenzburg",
+        "n": "Bachstrasse",
+        "a": true
+        }, {
+        "i": 78733,
+        "s": "Lenzburg Mattenweg",
+        "o": "Lenzburg",
+        "n": "Mattenweg",
+        "a": true
+        }, {
+        "i": 78734,
+        "s": "Lenzburg Beyeler",
+        "o": "Lenzburg",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78738,
+        "s": "Lenzburg Langsamstig",
+        "o": "Lenzburg",
+        "n": "Langsamstig",
+        "a": true
+        }]
+  }, {
+  "l": "391",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Langsamstig",
+  "r": "Kronenplatz via Bachstrasse",
+  "h": [{
+        "i": 78738,
+        "s": "Lenzburg Langsamstig",
+        "o": "Lenzburg",
+        "n": "Langsamstig",
+        "a": true
+        }, {
+        "i": 78739,
+        "s": "Lenzburg Dufourstrasse",
+        "o": "Lenzburg",
+        "n": "Dufourstrasse",
+        "a": true
+        }, {
+        "i": 90242,
+        "s": "Lenzburg General Herzog-Strasse",
+        "o": "Lenzburg",
+        "n": "General Herzog-Strasse",
+        "a": true
+        }, {
+        "i": 78745,
+        "s": "Lenzburg Zeughaus",
+        "o": "Lenzburg",
+        "n": "Zeughaus",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78734,
+        "s": "Lenzburg Beyeler",
+        "o": "Lenzburg",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78733,
+        "s": "Lenzburg Mattenweg",
+        "o": "Lenzburg",
+        "n": "Mattenweg",
+        "a": true
+        }, {
+        "i": 78732,
+        "s": "Lenzburg Bachstrasse",
+        "o": "Lenzburg",
+        "n": "Bachstrasse",
+        "a": true
+        }, {
+        "i": 90243,
+        "s": "Lenzburg Poststrasse",
+        "o": "Lenzburg",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }]
+  }, {
+  "l": "391",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Schloss",
+  "r": "Bahnhof via Angelrain",
+  "h": [{
+        "i": 88869,
+        "s": "Lenzburg Schloss",
+        "o": "Lenzburg",
+        "n": "Schloss",
+        "a": true
+        }, {
+        "i": 78726,
+        "s": "Lenzburg Berufsschule",
+        "o": "Lenzburg",
+        "n": "Berufsschule",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "391",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Schloss Lenzburg via Angelrain",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 88869,
+        "s": "Lenzburg Schloss",
+        "o": "Lenzburg",
+        "n": "Schloss",
+        "a": true
+        }]
+  }, {
+  "l": "392",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Dintikon Oberdorf",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78750,
+        "s": "Lenzburg Friedweg",
+        "o": "Lenzburg",
+        "n": "Friedweg",
+        "a": true
+        }, {
+        "i": 89543,
+        "s": "Lenzburg Ziegeleiweg",
+        "o": "Lenzburg",
+        "n": "Ziegeleiweg",
+        "a": true
+        }, {
+        "i": 78754,
+        "s": "Lenzburg Fünfweiher",
+        "o": "Lenzburg",
+        "n": "Fünfweiher",
+        "a": true
+        }, {
+        "i": 78755,
+        "s": "Ammerswil Rebrainstrasse",
+        "o": "Ammerswil",
+        "n": "Rebrainstrasse",
+        "a": true
+        }, {
+        "i": 78757,
+        "s": "Ammerswil Dorfplatz",
+        "o": "Ammerswil",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 90162,
+        "s": "Ammerswil Kirche",
+        "o": "Ammerswil",
+        "n": "Kirche",
+        "a": true
+        }, {
+        "i": 90224,
+        "s": "Dintikon Ammerswilerstrasse",
+        "o": "Dintikon",
+        "n": "Ammerswilerstrasse",
+        "a": true
+        }, {
+        "i": 82728,
+        "s": "Dintikon Dorfstrasse",
+        "o": "Dintikon",
+        "n": "Dorfstrasse",
+        "a": true
+        }, {
+        "i": 87112,
+        "s": "Dintikon Post",
+        "o": "Dintikon",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 90226,
+        "s": "Dintikon Schule",
+        "o": "Dintikon",
+        "n": "Schule",
+        "a": true
+        }, {
+        "i": 90225,
+        "s": "Dintikon Oberdorf",
+        "o": "Dintikon",
+        "n": "Oberdorf",
+        "a": true
+        }]
+  }, {
+  "l": "392",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Dintikon Oberdorf",
+  "r": "Lenzburg Bahnhof",
+  "h": [{
+        "i": 90225,
+        "s": "Dintikon Oberdorf",
+        "o": "Dintikon",
+        "n": "Oberdorf",
+        "a": true
+        }, {
+        "i": 90226,
+        "s": "Dintikon Schule",
+        "o": "Dintikon",
+        "n": "Schule",
+        "a": true
+        }, {
+        "i": 87112,
+        "s": "Dintikon Post",
+        "o": "Dintikon",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 82728,
+        "s": "Dintikon Dorfstrasse",
+        "o": "Dintikon",
+        "n": "Dorfstrasse",
+        "a": true
+        }, {
+        "i": 90224,
+        "s": "Dintikon Ammerswilerstrasse",
+        "o": "Dintikon",
+        "n": "Ammerswilerstrasse",
+        "a": true
+        }, {
+        "i": 90162,
+        "s": "Ammerswil Kirche",
+        "o": "Ammerswil",
+        "n": "Kirche",
+        "a": true
+        }, {
+        "i": 78757,
+        "s": "Ammerswil Dorfplatz",
+        "o": "Ammerswil",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78755,
+        "s": "Ammerswil Rebrainstrasse",
+        "o": "Ammerswil",
+        "n": "Rebrainstrasse",
+        "a": true
+        }, {
+        "i": 78754,
+        "s": "Lenzburg Fünfweiher",
+        "o": "Lenzburg",
+        "n": "Fünfweiher",
+        "a": true
+        }, {
+        "i": 89543,
+        "s": "Lenzburg Ziegeleiweg",
+        "o": "Lenzburg",
+        "n": "Ziegeleiweg",
+        "a": true
+        }, {
+        "i": 78750,
+        "s": "Lenzburg Friedweg",
+        "o": "Lenzburg",
+        "n": "Friedweg",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "393",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Mägenwil Bahnhof",
+  "r": "Lenzburg Bahnhof via Othmarsingen",
+  "h": [{
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 80637,
+        "s": "Mägenwil Post",
+        "o": "Mägenwil",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 87574,
+        "s": "Mägenwil Dorf",
+        "o": "Mägenwil",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 87230,
+        "s": "Mägenwil Gewerbepark",
+        "o": "Mägenwil",
+        "n": "Gewerbepark",
+        "a": true
+        }, {
+        "i": 87101,
+        "s": "Othmarsingen Bahnhof",
+        "o": "Othmarsingen",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 90253,
+        "s": "Othmarsingen Bahnhofstrasse",
+        "o": "Othmarsingen",
+        "n": "Bahnhofstrasse",
+        "a": true
+        }, {
+        "i": 87102,
+        "s": "Othmarsingen Rössli",
+        "o": "Othmarsingen",
+        "n": "Rössli",
+        "a": true
+        }, {
+        "i": 90254,
+        "s": "Othmarsingen Högern",
+        "o": "Othmarsingen",
+        "n": "Högern",
+        "a": true
+        }, {
+        "i": 89490,
+        "s": "Othmarsingen Militärbetriebe",
+        "o": "Othmarsingen",
+        "n": "Militärbetriebe",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "393",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Mägenwil Bahnhof via Othmarsingen",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78730,
+        "s": "Lenzburg Kronenplatz",
+        "o": "Lenzburg",
+        "n": "Kronenplatz",
+        "a": true
+        }, {
+        "i": 78729,
+        "s": "Lenzburg Mehrzweckhalle",
+        "o": "Lenzburg",
+        "n": "Mehrzweckhalle",
+        "a": true
+        }, {
+        "i": 78728,
+        "s": "Lenzburg Neuhofstrasse",
+        "o": "Lenzburg",
+        "n": "Neuhofstrasse",
+        "a": true
+        }, {
+        "i": 89490,
+        "s": "Othmarsingen Militärbetriebe",
+        "o": "Othmarsingen",
+        "n": "Militärbetriebe",
+        "a": true
+        }, {
+        "i": 90254,
+        "s": "Othmarsingen Högern",
+        "o": "Othmarsingen",
+        "n": "Högern",
+        "a": true
+        }, {
+        "i": 87102,
+        "s": "Othmarsingen Rössli",
+        "o": "Othmarsingen",
+        "n": "Rössli",
+        "a": true
+        }, {
+        "i": 90253,
+        "s": "Othmarsingen Bahnhofstrasse",
+        "o": "Othmarsingen",
+        "n": "Bahnhofstrasse",
+        "a": true
+        }, {
+        "i": 87101,
+        "s": "Othmarsingen Bahnhof",
+        "o": "Othmarsingen",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 87230,
+        "s": "Mägenwil Gewerbepark",
+        "o": "Mägenwil",
+        "n": "Gewerbepark",
+        "a": true
+        }, {
+        "i": 87574,
+        "s": "Mägenwil Dorf",
+        "o": "Mägenwil",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 80637,
+        "s": "Mägenwil Post",
+        "o": "Mägenwil",
+        "n": "Post",
+        "a": true
+        }, {
+        "i": 77353,
+        "s": "Mägenwil Bahnhof",
+        "o": "Mägenwil",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "394",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Bahnhof",
+  "r": "Rupperswil Bahnhof",
+  "h": [{
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78745,
+        "s": "Lenzburg Zeughaus",
+        "o": "Lenzburg",
+        "n": "Zeughaus",
+        "a": true
+        }, {
+        "i": 95641,
+        "s": "Lenzburg Fünflinden",
+        "o": "Lenzburg",
+        "n": "Fünflinden",
+        "a": true
+        }, {
+        "i": 78742,
+        "s": "Schafisheim Coop",
+        "o": "Schafisheim",
+        "n": "Coop",
+        "a": true
+        }, {
+        "i": 88573,
+        "s": "Hunzenschwil Korbacher",
+        "o": "Hunzenschwil",
+        "n": "Korbacher",
+        "a": true
+        }, {
+        "i": 88576,
+        "s": "Hunzenschwil Gemeindehaus",
+        "o": "Hunzenschwil",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 95454,
+        "s": "Hunzenschwil Oberdorf",
+        "o": "Hunzenschwil",
+        "n": "Oberdorf",
+        "a": true
+        }, {
+        "i": 88574,
+        "s": "Hunzenschwil Weiherweg",
+        "o": "Hunzenschwil",
+        "n": "Weiherweg",
+        "a": true
+        }, {
+        "i": 88572,
+        "s": "Hunzenschwil Birkenweg",
+        "o": "Hunzenschwil",
+        "n": "Birkenweg",
+        "a": true
+        }, {
+        "i": 88577,
+        "s": "Hunzenschwil Unterdorf",
+        "o": "Hunzenschwil",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 88570,
+        "s": "Rupperswil Haldenweg",
+        "o": "Rupperswil",
+        "n": "Haldenweg",
+        "a": true
+        }, {
+        "i": 88575,
+        "s": "Rupperswil Bahnhof",
+        "o": "Rupperswil",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "394",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Rupperswil Bahnhof",
+  "r": "Lenzburg Bahnhof",
+  "h": [{
+        "i": 88575,
+        "s": "Rupperswil Bahnhof",
+        "o": "Rupperswil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 88570,
+        "s": "Rupperswil Haldenweg",
+        "o": "Rupperswil",
+        "n": "Haldenweg",
+        "a": true
+        }, {
+        "i": 88577,
+        "s": "Hunzenschwil Unterdorf",
+        "o": "Hunzenschwil",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 88572,
+        "s": "Hunzenschwil Birkenweg",
+        "o": "Hunzenschwil",
+        "n": "Birkenweg",
+        "a": true
+        }, {
+        "i": 88574,
+        "s": "Hunzenschwil Weiherweg",
+        "o": "Hunzenschwil",
+        "n": "Weiherweg",
+        "a": true
+        }, {
+        "i": 95454,
+        "s": "Hunzenschwil Oberdorf",
+        "o": "Hunzenschwil",
+        "n": "Oberdorf",
+        "a": true
+        }, {
+        "i": 88576,
+        "s": "Hunzenschwil Gemeindehaus",
+        "o": "Hunzenschwil",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 88573,
+        "s": "Hunzenschwil Korbacher",
+        "o": "Hunzenschwil",
+        "n": "Korbacher",
+        "a": true
+        }, {
+        "i": 78742,
+        "s": "Schafisheim Coop",
+        "o": "Schafisheim",
+        "n": "Coop",
+        "a": true
+        }, {
+        "i": 95641,
+        "s": "Lenzburg Fünflinden",
+        "o": "Lenzburg",
+        "n": "Fünflinden",
+        "a": true
+        }, {
+        "i": 78745,
+        "s": "Lenzburg Zeughaus",
+        "o": "Lenzburg",
+        "n": "Zeughaus",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "395",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Teufenthal Bahnhof",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78698,
+        "s": "Staufen Beyeler",
+        "o": "Staufen",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78699,
+        "s": "Staufen Lindenplatz",
+        "o": "Staufen",
+        "n": "Lindenplatz",
+        "a": true
+        }, {
+        "i": 78700,
+        "s": "Staufen Chrüzweg",
+        "o": "Staufen",
+        "n": "Chrüzweg",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78702,
+        "s": "Schafisheim Milchgasse",
+        "o": "Schafisheim",
+        "n": "Milchgasse",
+        "a": true
+        }, {
+        "i": 2675,
+        "s": "Seon Frohsinn",
+        "o": "Seon",
+        "n": "Frohsinn",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 78704,
+        "s": "Seon Unterdorf",
+        "o": "Seon",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 2676,
+        "s": "Seon Hallenbad",
+        "o": "Seon",
+        "n": "Hallenbad",
+        "a": true
+        }, {
+        "i": 2677,
+        "s": "Egliswil Industrie",
+        "o": "Egliswil",
+        "n": "Industrie",
+        "a": true
+        }, {
+        "i": 2678,
+        "s": "Egliswil Waagplatz",
+        "o": "Egliswil",
+        "n": "Waagplatz",
+        "a": true
+        }, {
+        "i": 78705,
+        "s": "Egliswil Zopf",
+        "o": "Egliswil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 78706,
+        "s": "Seengen Feldgarage",
+        "o": "Seengen",
+        "n": "Feldgarage",
+        "a": true
+        }, {
+        "i": 2679,
+        "s": "Seengen Poststrasse",
+        "o": "Seengen",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78707,
+        "s": "Seengen Rotes Haus",
+        "o": "Seengen",
+        "n": "Rotes Haus",
+        "a": true
+        }, {
+        "i": 78708,
+        "s": "Seengen Schloss Hallwyl",
+        "o": "Seengen",
+        "n": "Schloss Hallwyl",
+        "a": true
+        }, {
+        "i": 78710,
+        "s": "Boniswil Eichholz",
+        "o": "Boniswil",
+        "n": "Eichholz",
+        "a": true
+        }, {
+        "i": 78711,
+        "s": "Boniswil Alte Schmiede",
+        "o": "Boniswil",
+        "n": "Alte Schmiede",
+        "a": true
+        }, {
+        "i": 78712,
+        "s": "Boniswil Bahnhof",
+        "o": "Boniswil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78714,
+        "s": "Leutwil Boniswilerstrasse",
+        "o": "Leutwil",
+        "n": "Boniswilerstrasse",
+        "a": true
+        }, {
+        "i": 78715,
+        "s": "Leutwil Dorfplatz",
+        "o": "Leutwil",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78716,
+        "s": "Leutwil Zopf",
+        "o": "Leutwil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 78717,
+        "s": "Dürrenäsch Wolfacher",
+        "o": "Dürrenäsch",
+        "n": "Wolfacher",
+        "a": true
+        }, {
+        "i": 78718,
+        "s": "Dürrenäsch Ausserdorf",
+        "o": "Dürrenäsch",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 78719,
+        "s": "Dürrenäsch Dorf",
+        "o": "Dürrenäsch",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 78720,
+        "s": "Dürrenäsch Unterdorf",
+        "o": "Dürrenäsch",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 78721,
+        "s": "Dürrenäsch Brunnen",
+        "o": "Dürrenäsch",
+        "n": "Brunnen",
+        "a": true
+        }, {
+        "i": 78722,
+        "s": "Teufenthal Moos",
+        "o": "Teufenthal",
+        "n": "Moos",
+        "a": true
+        }, {
+        "i": 78723,
+        "s": "Teufenthal Oberdorf",
+        "o": "Teufenthal",
+        "n": "Oberdorf",
+        "a": true
+        }, {
+        "i": 78724,
+        "s": "Teufenthal Schule",
+        "o": "Teufenthal",
+        "n": "Schule",
+        "a": true
+        }, {
+        "i": 78725,
+        "s": "Teufenthal Bahnhof",
+        "o": "Teufenthal",
+        "n": "Bahnhof",
+        "a": true
+        }]
+  }, {
+  "l": "395",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Teufenthal Bahnhof",
+  "r": "Lenzburg Hypiplatz",
+  "h": [{
+        "i": 78725,
+        "s": "Teufenthal Bahnhof",
+        "o": "Teufenthal",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78724,
+        "s": "Teufenthal Schule",
+        "o": "Teufenthal",
+        "n": "Schule",
+        "a": true
+        }, {
+        "i": 78723,
+        "s": "Teufenthal Oberdorf",
+        "o": "Teufenthal",
+        "n": "Oberdorf",
+        "a": true
+        }, {
+        "i": 78722,
+        "s": "Teufenthal Moos",
+        "o": "Teufenthal",
+        "n": "Moos",
+        "a": true
+        }, {
+        "i": 78721,
+        "s": "Dürrenäsch Brunnen",
+        "o": "Dürrenäsch",
+        "n": "Brunnen",
+        "a": true
+        }, {
+        "i": 78720,
+        "s": "Dürrenäsch Unterdorf",
+        "o": "Dürrenäsch",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 78719,
+        "s": "Dürrenäsch Dorf",
+        "o": "Dürrenäsch",
+        "n": "Dorf",
+        "a": true
+        }, {
+        "i": 78718,
+        "s": "Dürrenäsch Ausserdorf",
+        "o": "Dürrenäsch",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 78717,
+        "s": "Dürrenäsch Wolfacher",
+        "o": "Dürrenäsch",
+        "n": "Wolfacher",
+        "a": true
+        }, {
+        "i": 78716,
+        "s": "Leutwil Zopf",
+        "o": "Leutwil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 78715,
+        "s": "Leutwil Dorfplatz",
+        "o": "Leutwil",
+        "n": "Dorfplatz",
+        "a": true
+        }, {
+        "i": 78714,
+        "s": "Leutwil Boniswilerstrasse",
+        "o": "Leutwil",
+        "n": "Boniswilerstrasse",
+        "a": true
+        }, {
+        "i": 78712,
+        "s": "Boniswil Bahnhof",
+        "o": "Boniswil",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78711,
+        "s": "Boniswil Alte Schmiede",
+        "o": "Boniswil",
+        "n": "Alte Schmiede",
+        "a": true
+        }, {
+        "i": 78710,
+        "s": "Boniswil Eichholz",
+        "o": "Boniswil",
+        "n": "Eichholz",
+        "a": true
+        }, {
+        "i": 78708,
+        "s": "Seengen Schloss Hallwyl",
+        "o": "Seengen",
+        "n": "Schloss Hallwyl",
+        "a": true
+        }, {
+        "i": 2679,
+        "s": "Seengen Poststrasse",
+        "o": "Seengen",
+        "n": "Poststrasse",
+        "a": true
+        }, {
+        "i": 78706,
+        "s": "Seengen Feldgarage",
+        "o": "Seengen",
+        "n": "Feldgarage",
+        "a": true
+        }, {
+        "i": 78705,
+        "s": "Egliswil Zopf",
+        "o": "Egliswil",
+        "n": "Zopf",
+        "a": true
+        }, {
+        "i": 2678,
+        "s": "Egliswil Waagplatz",
+        "o": "Egliswil",
+        "n": "Waagplatz",
+        "a": true
+        }, {
+        "i": 2677,
+        "s": "Egliswil Industrie",
+        "o": "Egliswil",
+        "n": "Industrie",
+        "a": true
+        }, {
+        "i": 2676,
+        "s": "Seon Hallenbad",
+        "o": "Seon",
+        "n": "Hallenbad",
+        "a": true
+        }, {
+        "i": 78704,
+        "s": "Seon Unterdorf",
+        "o": "Seon",
+        "n": "Unterdorf",
+        "a": true
+        }, {
+        "i": 78703,
+        "s": "Seon Bahnhof / Post",
+        "o": "Seon",
+        "n": "Bahnhof / Post",
+        "a": true
+        }, {
+        "i": 2675,
+        "s": "Seon Frohsinn",
+        "o": "Seon",
+        "n": "Frohsinn",
+        "a": true
+        }, {
+        "i": 78702,
+        "s": "Schafisheim Milchgasse",
+        "o": "Schafisheim",
+        "n": "Milchgasse",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 78700,
+        "s": "Staufen Chrüzweg",
+        "o": "Staufen",
+        "n": "Chrüzweg",
+        "a": true
+        }, {
+        "i": 78699,
+        "s": "Staufen Lindenplatz",
+        "o": "Staufen",
+        "n": "Lindenplatz",
+        "a": true
+        }, {
+        "i": 78698,
+        "s": "Staufen Beyeler",
+        "o": "Staufen",
+        "n": "Beyeler",
+        "a": true
+        }, {
+        "i": 78735,
+        "s": "Lenzburg Augustin Keller-Strasse",
+        "o": "Lenzburg",
+        "n": "Augustin Keller-Strasse",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }, {
+  "l": "396",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Lenzburg Hypiplatz",
+  "r": "Hunzenschwil Gemeindehaus",
+  "h": [{
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78745,
+        "s": "Lenzburg Zeughaus",
+        "o": "Lenzburg",
+        "n": "Zeughaus",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 90262,
+        "s": "Schafisheim Talhard",
+        "o": "Schafisheim",
+        "n": "Talhard",
+        "a": true
+        }, {
+        "i": 78744,
+        "s": "Schafisheim Jumbo",
+        "o": "Schafisheim",
+        "n": "Jumbo",
+        "a": true
+        }, {
+        "i": 78742,
+        "s": "Schafisheim Coop",
+        "o": "Schafisheim",
+        "n": "Coop",
+        "a": true
+        }, {
+        "i": 88573,
+        "s": "Hunzenschwil Korbacher",
+        "o": "Hunzenschwil",
+        "n": "Korbacher",
+        "a": true
+        }, {
+        "i": 88572,
+        "s": "Hunzenschwil Birkenweg",
+        "o": "Hunzenschwil",
+        "n": "Birkenweg",
+        "a": true
+        }, {
+        "i": 88574,
+        "s": "Hunzenschwil Weiherweg",
+        "o": "Hunzenschwil",
+        "n": "Weiherweg",
+        "a": true
+        }, {
+        "i": 95454,
+        "s": "Hunzenschwil Oberdorf",
+        "o": "Hunzenschwil",
+        "n": "Oberdorf",
+        "a": true
+        }, {
+        "i": 88576,
+        "s": "Hunzenschwil Gemeindehaus",
+        "o": "Hunzenschwil",
+        "n": "Gemeindehaus",
+        "a": true
+        }]
+  }, {
+  "l": "396",
+  "f": 16777215,
+  "b": 29122,
+  "t": 1,
+  "s": "Hunzenschwil Gemeindehaus",
+  "r": "Lenzburg Hypiplatz",
+  "h": [{
+        "i": 88576,
+        "s": "Hunzenschwil Gemeindehaus",
+        "o": "Hunzenschwil",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 88573,
+        "s": "Hunzenschwil Korbacher",
+        "o": "Hunzenschwil",
+        "n": "Korbacher",
+        "a": true
+        }, {
+        "i": 78742,
+        "s": "Schafisheim Coop",
+        "o": "Schafisheim",
+        "n": "Coop",
+        "a": true
+        }, {
+        "i": 78744,
+        "s": "Schafisheim Jumbo",
+        "o": "Schafisheim",
+        "n": "Jumbo",
+        "a": true
+        }, {
+        "i": 90262,
+        "s": "Schafisheim Talhard",
+        "o": "Schafisheim",
+        "n": "Talhard",
+        "a": true
+        }, {
+        "i": 2872,
+        "s": "Schafisheim Gemeindehaus",
+        "o": "Schafisheim",
+        "n": "Gemeindehaus",
+        "a": true
+        }, {
+        "i": 78701,
+        "s": "Schafisheim Ausserdorf",
+        "o": "Schafisheim",
+        "n": "Ausserdorf",
+        "a": true
+        }, {
+        "i": 78745,
+        "s": "Lenzburg Zeughaus",
+        "o": "Lenzburg",
+        "n": "Zeughaus",
+        "a": true
+        }, {
+        "i": 78737,
+        "s": "Lenzburg Schule Lenzhard",
+        "o": "Lenzburg",
+        "n": "Schule Lenzhard",
+        "a": true
+        }, {
+        "i": 78736,
+        "s": "Lenzburg Bahnhof",
+        "o": "Lenzburg",
+        "n": "Bahnhof",
+        "a": true
+        }, {
+        "i": 78746,
+        "s": "Lenzburg Angelrain",
+        "o": "Lenzburg",
+        "n": "Angelrain",
+        "a": true
+        }, {
+        "i": 78747,
+        "s": "Lenzburg Hypiplatz",
+        "o": "Lenzburg",
+        "n": "Hypiplatz",
+        "a": true
+        }]
+  }]

@@ -1,0 +1,37 @@
+{
+  "id": "/MasterData",
+  "title": "Master Data for App",
+  "type": "object",
+  "additionalProperties": false,
+  "definitions": {
+    "dataFile": {
+      "type": "object",
+      "description": "The definition of one data file",
+      "additionalProperties": false,
+      "properties": {
+        "revision": {
+          "type": "string",
+          "pattern": "^\\d+$",
+          "description": "Almost numeric revision number"
+        },
+        "date": {
+          "type": "int",
+          "description": "UNIX Timestamp"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "description": "Download URL"
+        }
+      }
+    }
+  },
+  "properties": {
+    "linien": {
+      "$ref": "#/definitions/dataFile"
+    },
+    "haltestellen": {
+      "$ref": "#/definitions/dataFile"
+    }
+  }
+}

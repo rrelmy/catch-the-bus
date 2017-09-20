@@ -1,0 +1,73 @@
+options:
+  formatter: stylish
+files:
+  include: 'src/**/*.(scss|vue)'
+rules:
+  nesting-depth: 4
+  # Look
+  property-sort-order:
+  - 1
+  - order: smacss
+  indentation:
+    - 2
+    - size: 4
+  quotes:
+    - 1
+    - style: single
+  space-after-comma:
+    - 1
+    - include: true
+  space-before-brace:
+    - 1
+    - include: true
+  trailing-semicolon: 1
+  trailing-whitespace: 0
+  url-quotes: 1
+
+  # BEM
+  class-name-format:
+  - 1
+  - convention: '[a-zA-Z0-9]+'
+    allow-leading-underscore: false
+
+  placeholder-name-format:
+    - 1
+    - convention: '[a-zA-Z0-9]+'
+      allow-leading-underscore: false
+
+  variable-name-format:
+    - 1
+    - convention: '[a-zA-Z0-9]+'
+      allow-leading-underscore: false
+
+  bem-depth:
+    - 0
+    - max-depth: 2
+
+  # Line Spacing
+  one-declaration-per-line: 1
+  empty-line-between-blocks: 0
+  single-line-per-selector: 1
+
+  # Disallows
+  no-color-keywords: 1
+  no-color-literals: 1
+  no-duplicate-properties: 1
+  no-vendor-prefixes: 1
+  no-empty-rulesets: 1
+  no-ids: 1
+  no-important: 1
+  no-invalid-hex: 1
+  no-misspelled-properties:
+    - 1
+    - extra-properties: []
+  no-qualifying-elements:
+    - 1
+    - allow-element-with-attribute: false
+      allow-element-with-class: false
+      allow-element-with-id: false
+
+  # Nesting
+  force-attribute-nesting: 1
+  force-element-nesting: 1
+  force-pseudo-nesting: 1

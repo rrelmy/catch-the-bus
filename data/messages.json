@@ -1,0 +1,141 @@
+{
+  "response": {
+    "incidences": [
+      {
+        "st": "Infolge von Bauarbeiten werden die Haltestellen Dintikon, Dorfstrasse, Dintikon, Oberdorf und Dintikon, Post nicht bedient.",
+        "lt": "Infolge von Bauarbeiten werden die Haltestellen Dintikon, Dorfstrasse, Dintikon, Oberdorf und Dintikon, Post nicht bedient.",
+        "t": "Haltestelle nicht bedient",
+        "info": "Infolge von Bauarbeiten werden die Haltestellen Dintikon, Dorfstrasse, Dintikon, Oberdorf und Dintikon, Post nicht bedient.",
+        "web": false,
+        "site": false,
+        "stele": true,
+        "monitor": false,
+        "mobile": true,
+        "betrieb": false,
+        "sms": false,
+        "id": "588f122fe4b0af633bec5eb0",
+        "from": {
+          "time": 1485903540000,
+          "timezone": "Europe/Zurich"
+        },
+        "until": {
+          "time": 1506722280000,
+          "timezone": "Europe/Zurich"
+        },
+        "update": {
+          "time": 1505943874297,
+          "timezone": "Europe/Zurich"
+        },
+        "hideEndtime": false
+      },
+      {
+        "st": "Ab 8.9. für ca. 3 Wochen wird die Haltestelle Hunzenschwil, Gemeindehaus um einige Meter in nördlicher Richtung verschoben.",
+        "lt": "Ab 8.9.2017 für ca. 3 Wochen wird die Haltestelle Hunzenschwil, Gemeindehaus um einige Meter in nördlicher Richtung verschoben. \nFür Ihr Verständnis danken wir Ihnen.",
+        "t": "Hunzenschwil Gemeindehaus - Haltestelle verschoben",
+        "info": "Ab 8.9.2017 für ca. 3 Wochen wird die Haltestelle Hunzenschwil, Gemeindehaus um einige Meter in nördlicher Richtung verschoben. \nFür Ihr Verständnis danken wir Ihnen.",
+        "web": false,
+        "site": false,
+        "stele": false,
+        "monitor": false,
+        "mobile": true,
+        "betrieb": false,
+        "sms": false,
+        "id": "59a961a2e4b02ecd2da289cb",
+        "from": {
+          "time": 1504877520000,
+          "timezone": "Europe/Zurich"
+        },
+        "until": {
+          "time": 1506691920000,
+          "timezone": "Europe/Zurich"
+        },
+        "update": {
+          "time": 1505943874297,
+          "timezone": "Europe/Zurich"
+        },
+        "hideEndtime": false
+      },
+      {
+        "st": "Lenzburg: General Herzog-Strasse\nAb 19.9.2017 für ca. 3 Wochen wird die Haltestelle General Herzog-Strasse an die Dragonerstrasse verschoben.",
+        "lt": "Lenzburg: General Herzog-Strasse\nAb Dienstag, 19. September 2017 für ca. 3 Wochen \nInfolge Werkleitungsarbeiten wird die Haltestelle General Herzog-Strasse an die Dragonerstrasse verschoben. \nBesten Dank für Ihr Verständnis.",
+        "t": "Lenzburg: General Herzog-Strasse ab 19.9.2017",
+        "info": "Lenzburg: General Herzog-Strasse\nAb Dienstag, 19. September 2017 für ca. 3 Wochen \nInfolge Werkleitungsarbeiten wird die Haltestelle General Herzog-Strasse an die Dragonerstrasse verschoben. \nBesten Dank für Ihr Verständnis.",
+        "web": false,
+        "site": false,
+        "stele": false,
+        "monitor": false,
+        "mobile": true,
+        "betrieb": false,
+        "sms": false,
+        "id": "59ba45fbe4b02ecd2da289cf",
+        "from": {
+          "time": 1505379720000,
+          "timezone": "Europe/Zurich"
+        },
+        "until": {
+          "time": 1505944471947,
+          "timezone": "Europe/Zurich"
+        },
+        "update": {
+          "time": 1505943874298,
+          "timezone": "Europe/Zurich"
+        },
+        "hideEndtime": true
+      },
+      {
+        "st": "Jugendfest Leutwil: 22.9.-24.9.2017\nDer Dorfplatz wird in diesem Zeitraum nicht bedient. An der Dürrenäschstrasse werden prov. Haltestellen eingerichtet.",
+        "lt": "Jugendfest Leutwil: Freitag, 22. September bis Sonntag, 24. September 2017\nDer Dorfplatz wird in diesem Zeitraum nicht angefahren.\nAn der Dürrenäschstrasse werden prov. Haltestellen eingerichtet.\nAm Samstag, 23. September findet ein Umzug statt.\nDer Kurs 14.32 h ab Teufenthal verkehrt via Hallwil. Die Haltestellen Dürrenäsch, Dorf, Ausserdorf, Wolfacker und sämtliche Haltestellen in Leutwil werden nicht bedient.",
+        "t": "Jugendfest Leutwil: Freitag, 22. September bis Sonntag, 24. September 2017",
+        "info": "Jugendfest Leutwil: Freitag, 22. September bis Sonntag, 24. September 2017\nDer Dorfplatz wird in diesem Zeitraum nicht angefahren.\nAn der Dürrenäschstrasse werden prov. Haltestellen eingerichtet.\nAm Samstag, 23. September findet ein Umzug statt.\nDer Kurs 14.32 h ab Teufenthal verkehrt via Hallwil. Die Haltestellen Dürrenäsch, Dorf, Ausserdorf, Wolfacker und sämtliche Haltestellen in Leutwil werden nicht bedient.",
+        "web": false,
+        "site": false,
+        "stele": false,
+        "monitor": false,
+        "mobile": true,
+        "betrieb": false,
+        "sms": false,
+        "id": "59c2184be4b02ecd2da289d0",
+        "from": {
+          "time": 1506045600000,
+          "timezone": "Europe/Zurich"
+        },
+        "until": {
+          "time": 1506204000000,
+          "timezone": "Europe/Zurich"
+        },
+        "update": {
+          "time": 1505943874298,
+          "timezone": "Europe/Zurich"
+        },
+        "hideEndtime": false
+      },
+      {
+        "st": "Lenzburg:24.9.2017 ca. 13.30-15.30h\nInfolge Umzug werden die Haltestellen Hypi-und Kronenplatz nicht bedient.Ersatz-Haltestellen:Mehrzweckhalle oder Angelrain.",
+        "lt": "Lenzburg: Sonntag, 24. September 2017 13.30 - 15.30 Uhr\nInfolge Jungtambouren-Umzug werden die Haltestellen Lenzburg, Hypiplatz und Kronenplatz während dieser Zeit für die Linien 391, 392 und 393 nicht bedient.\nAls Ersatz dienen die Haltestellen Lenzburg, Mehrzweckhalle oder Angelrain.\nBesten Dank für Ihr Verständnis.",
+        "t": "Lenzburg: Sonntag, 24. September 2017 13.30 - 15.30 Uhr",
+        "info": "Lenzburg: Sonntag, 24. September 2017 13.30 - 15.30 Uhr\nInfolge Jungtambouren-Umzug werden die Haltestellen Lenzburg, Hypiplatz und Kronenplatz während dieser Zeit für die Linien 391, 392 und 393 nicht bedient.\nAls Ersatz dienen die Haltestellen Lenzburg, Mehrzweckhalle oder Angelrain.\nBesten Dank für Ihr Verständnis.",
+        "web": false,
+        "site": false,
+        "stele": false,
+        "monitor": false,
+        "mobile": true,
+        "betrieb": false,
+        "sms": false,
+        "id": "59c21c23e4b02ecd2da289d1",
+        "from": {
+          "time": 1506252600000,
+          "timezone": "Europe/Zurich"
+        },
+        "until": {
+          "time": 1506259800000,
+          "timezone": "Europe/Zurich"
+        },
+        "update": {
+          "time": 1505943874298,
+          "timezone": "Europe/Zurich"
+        },
+        "hideEndtime": false
+      }
+    ]
+  }
+}

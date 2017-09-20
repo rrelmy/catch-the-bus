@@ -1,0 +1,97 @@
+{
+  "id": "/Stations",
+  "title": "Stations",
+  "type": "array",
+  "additionalProperties": false,
+  "definitions": {
+    "station": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "i": {
+          "type": "int",
+          "description": "Station ID"
+        },
+        "s": {
+          "type": "string",
+          "description": "Full Station Name"
+        },
+        "o": {
+          "type": "string",
+          "description": "Station City"
+        },
+        "n": {
+          "type": "string",
+          "description": "Station Name"
+        },
+        "a": {
+          "type": "bool",
+          "description": "???"
+        },
+        "k": {
+          "type": "array",
+          "description": "Kanten? Station platform",
+          "items": {
+            "$ref": "#/definitions/stationStop"
+          }
+        },
+        "z": {
+          "type": "array",
+          "description": "???",
+          "items": {
+            "type": "int",
+            "additionalProperties": false
+          }
+        },
+        "r": {
+          "type": "array",
+          "description": "???",
+          "items": {
+            "type": "string"
+          }
+        },
+        "l": {
+          "type": "array",
+          "description": "???"
+        },
+        "la": {
+          "type": "float",
+          "description": "Latitude"
+        },
+        "lo": {
+          "type": "float",
+          "description": "Longitude"
+        },
+        "al": {
+          "type": "string",
+          "description": "Altitude? Seems always empty."
+        },
+        "c": {
+          "type": "int",
+          "description": "???"
+        }
+      }
+    },
+    "stationStop": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": {
+          "type": "int",
+          "description": "Station Stop ID"
+        },
+        "la": {
+          "type": "float",
+          "description": "Latitude"
+        },
+        "lo": {
+          "type": "float",
+          "description": "Longitude"
+        }
+      }
+    }
+  },
+  "items": {
+    "$ref": "#/definitions/station"
+  }
+}

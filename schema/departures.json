@@ -1,0 +1,164 @@
+{
+  "id": "/Departures",
+  "title": "Departures",
+  "type": "object",
+  "additionalProperties": false,
+  "definitions": {
+    "departure": {
+      "type": "object",
+      "description": "A departure",
+      "additionalProperties": false,
+      "properties": {
+        "rt": {
+          "type": "string"
+        },
+        "lineInfo": {
+          "$ref": "#/definitions/lineInfo"
+        },
+        "dest": {
+          "type": "string",
+          "descripion": "Destination station"
+        },
+        "stp": {
+          "type": "string",
+          "descripion": "Station of the departure"
+        },
+        "stopInfo": {
+          "$ref": "#/definitions/stopInfo"
+        },
+        "pred": {
+          "type": "bool"
+        },
+        "ddt": {
+          "$ref": "#/definitions/time"
+        },
+        "rdt": {
+          "$ref": "#/definitions/time"
+        },
+        "sdt": {
+          "$ref": "#/definitions/time"
+        },
+        "dt": {
+          "type": "string",
+          "pattern": "^\\d+min$",
+          "description": "Departure Time in minutes??"
+        },
+        "id": {
+          "type": "string",
+          "pattern": "^[\\d_]+;[\\d]{4}-[\\d]{2}-[\\d]{2}$"
+        },
+        "msgs": {
+          "type": "array"
+        },
+        "msgsSites": {
+          "type": "array"
+        },
+        "trafficJam": {
+          "type": "bool"
+        },
+        "atStation": {
+          "type": "bool"
+        },
+        "cancelled": {
+          "type": "bool"
+        },
+        "finished": {
+          "type": "bool"
+        },
+        "hasRealtime": {
+          "type": "bool"
+        },
+        "needsReservation": {
+          "type": "bool"
+        }
+      }
+    },
+    "time": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "time": {
+          "type": "int",
+          "description": "UNIX Timestamp miliseconds"
+        },
+        "timezone": {
+          "type": "string"
+        }
+      }
+    },
+    "lineInfo": {
+      "fgc": {
+        "type": "int"
+      },
+      "fgcHex": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{6}$"
+      },
+      "bgc": {
+        "type": "int"
+      },
+      "bgcHex": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{6}$"
+      },
+      "borderColor": {
+        "type": "int"
+      },
+      "borderColorHex": {
+        "type": "string",
+        "pattern": "^[a-f0-9]{6}$"
+      },
+      "vehicle": {
+        "type": "int",
+        "description": "???"
+      },
+      "direction": {
+        "type": "string",
+        "description": "???"
+      }
+    },
+    "stopInfo": {
+      "hid": {
+        "type": "string",
+        "pattern": "^\\d+$",
+        "description": "Station id"
+      },
+      "kid": {
+        "type": "string",
+        "pattern": "^\\d+_\\w+$",
+        "description": "Station platform id"
+      },
+      "lat": {
+        "type": "float"
+      },
+      "lon": {
+        "type": "float"
+      },
+      "perron": {
+        "type": "string",
+        "description": "Platform // TODO enum"
+      },
+      "direction": {
+        "type": "string",
+        "description": "TODO enum"
+      },
+      "name": {
+        "type": "string"
+      }
+    }
+  },
+  "properties": {
+    "response": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "departures": {
+          "type": "array",
+          "items": {
+            "$ref": "#/definitions/departure"
+          }
+        }
+      }
+    }
+  }
+}

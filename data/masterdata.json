@@ -1,0 +1,12 @@
+{
+  "linien": {
+    "revision": "16",
+    "date": 1497517097,
+    "url": "https://s3-eu-west-1.amazonaws.com/mezi-lenzburg/linien.lenz.20170614.json"
+  },
+  "haltestellen": {
+    "revision": "16",
+    "date": 1497517097 ,
+    "url": "https://s3-eu-west-1.amazonaws.com/mezi-lenzburg/haltestellen.lenz.20170614.json"
+  }
+}
