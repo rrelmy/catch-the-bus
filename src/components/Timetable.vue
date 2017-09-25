@@ -38,10 +38,10 @@ export default {
             const departureTime = new Date(line.ddt.time)
             const expectedDepartureTime = new Date(line.sdt.time)
 
-            const delayMinutes = Math.ceil((departureTime - expectedDepartureTime) / 1000 / 60)
+            const delayMinutes = Math.round((departureTime - expectedDepartureTime) / 1000 / 60)
 
             let result = ''
-            if (departureInMinutes < 30) {
+            if (departureInMinutes < 0) { // never
                 result += '' + departureInMinutes + "'"
             } else {
                 result += expectedDepartureTime.getHours() + ':' + expectedDepartureTime.getMinutes()
