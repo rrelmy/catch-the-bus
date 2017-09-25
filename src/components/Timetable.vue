@@ -39,7 +39,6 @@ export default {
             const expectedDepartureTime = new Date(line.sdt.time)
 
             const delayMinutes = Math.ceil((departureTime - expectedDepartureTime) / 1000 / 60)
-console.log(delayMinutes)
 
             let result = ''
             if (departureInMinutes < 30) {
