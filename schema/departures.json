@@ -30,13 +30,16 @@
           "type": "bool"
         },
         "ddt": {
-          "$ref": "#/definitions/time"
+          "$ref": "#/definitions/time",
+          "description": "Departure time"
         },
         "rdt": {
-          "$ref": "#/definitions/time"
+          "$ref": "#/definitions/time",
+          "description": "Current time"
         },
         "sdt": {
-          "$ref": "#/definitions/time"
+          "$ref": "#/definitions/time",
+          "description": "Expected departure time"
         },
         "dt": {
           "type": "string",

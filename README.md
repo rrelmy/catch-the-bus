@@ -221,3 +221,8 @@ App was developed by [Glue](https://www.glue.ch/)
   }
 }
 ```
+
+# TODO
+
+- [ ] Timetable UI
+- [ ] ServiceWorker
